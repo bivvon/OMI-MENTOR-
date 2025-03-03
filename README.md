@@ -32,8 +32,8 @@ AI Mentor is an intelligent, real-time personal advisor that enhances productivi
 
 ## 🚀 Installation & Setup
 ```bash
-git clone https://github.com/your-repo/ai-mentor.git
-cd ai-mentor
+git clone https://github.com/bivvon/OMI-MENTOR.git
+cd OMI-MENTOR
 npm install
 npm run dev
 ```
